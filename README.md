@@ -1,4 +1,4 @@
-# DataAnalysis_SuccessfulMovies
+# Module 1 Movie Analysis Project
 
 
 This is the Module 1 Final Project from the Online Data Sscience Bootcamp Flatiron course
