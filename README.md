@@ -27,5 +27,5 @@ student.ipynb<br>
 3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
 
 Presentation of methodology, findings and conclusions<br>
-Mod1Project_Presentation_KArora.pdf -- Working<br>
-Mod1Project_Presentation_KArora.pptx -- Working<br>
+Mod1Project_Presentation_KArora.pdf <br>
+Mod1Project_Presentation_KArora.pptx <br>
